@@ -1,6 +1,6 @@
 #conditioanl statements 
 
-grade = 90
+grade = 60
 
 
 if grade >= 90 

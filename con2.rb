@@ -1,4 +1,4 @@
-weight=90
+weight=125
 
 if weight <=110
   puts "Run 10 minutes to burn 80 calories."
